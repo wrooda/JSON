@@ -1,1 +1,7 @@
-bug report
+{
+	1): "Name/ID"
+	2): "Steps to reproduce"
+	3): "Expected result"
+	4): "Actual result"
+	5): "Skrin/photo"
+}
